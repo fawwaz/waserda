@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 halo
+=======
+ini isi fawwaz
+>>>>>>> 439badab6714e73e96a6a11fe32c9f08161038b0
